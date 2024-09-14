@@ -1,4 +1,5 @@
-import * as THREE from 'three'(any);
+// Importing Three.js modules
+import * as THREE from 'three';
 
 // Variables for movement
 let walkSpeed = 5;
